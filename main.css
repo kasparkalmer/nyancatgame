@@ -8,6 +8,12 @@ body {
     overflow: hidden;
 }
 
+#fps {
+    right: 5px;
+    top: 5px;
+    position: absolute;
+}
+
 #score {
     font-size: 2em;
     margin-top: 7.5%;
